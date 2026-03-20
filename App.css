@@ -1,0 +1,17 @@
+body {
+  background: #1f1c2c;
+  color: white;
+  font-family: Arial;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+.card {
+  background: #2c2c3c;
+  padding: 15px;
+  margin: 10px 0;
+}
